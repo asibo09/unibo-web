@@ -1,0 +1,14 @@
+article > header > div > img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+aside > section > ul > li > img{
+    width: 50px;
+    float: left;
+    margin-right: 5px;
+}
+
+form ul{
+    list-style: none;
+}
